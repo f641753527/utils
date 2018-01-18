@@ -1,0 +1,2 @@
+{"accessToken":"ca7f0d2c-d01c-4aef-837d-9464c9346f87",
+"userid":"21f93907-0f98-444b-951f-b953f48d444c","truename":"","grade":1,"clinicid":"","permission":4095,"disabled":0,"disabledReason":"","clinicList":[{"clinic_id":"a0638fdf-d387-4d8c-851a-9fdcbefa1b11","name":"°Ä¿¼ÔÆ","type":0,"owner_id":"21f93907-0f98-444b-951f-b953f48d444c","address":"","identifier":"17512078846_20171213091255391486704","create_time":1712131712553915000,"description":""}]}
